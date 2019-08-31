@@ -74,3 +74,6 @@ by NSUCEC R&D on august 2019
 * [pytorch](https://pytorch.org/)
 * [tensorflow](https://www.tensorflow.org/)
 ***
+### Some useful online courses for Python
+* [Udacity] (https://www.udacity.com/course/introduction-to-python--ud1110)
+* [Udemy] (https://www.udemy.com/python-complete/)
