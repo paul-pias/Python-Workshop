@@ -9,12 +9,12 @@ by NSUCEC R&D on august 2019
 
 ## Class-1:
 
-    * Basic concepts on Programming Language
-    * Why Python as a Language?
-    * Data Types
-    * Operators
-    * File
-    * Assignment
+* **Basic concepts on Programming Language**
+* **Why Python as a Language?**
+* **Data Types**
+* **Operators**
+* **File**
+* **Assignment**
 
 ***
 
@@ -31,6 +31,7 @@ by NSUCEC R&D on august 2019
 1. **Display the information stored on the file**
 2. **First read the file line by line and split the information on the basis of “ : ” and store the Movie Name and the Lead Actor Name into two separate variable.**
 3. **Store the new information into another file named “Actor_Information.txt” using “Name of the Actor : Movie Name” this convention.**
+
 
 #### Solution:
 ```python

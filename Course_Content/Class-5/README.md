@@ -9,12 +9,12 @@ by NSUCEC R&D on august 2019
 
 ## Class-5:
 
-    * Function
-    * Scripting
-    * Class and Object
-    * Iterators
-    * Generators
-    * Assignment
+* **Function**
+* **Scripting**
+* **Class and Object**
+* **Iterators**
+* **Generators**
+* **Assignment**
 
 
 ***
