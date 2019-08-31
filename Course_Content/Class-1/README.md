@@ -21,16 +21,16 @@ by NSUCEC R&D on august 2019
 
 ## Class-1 Assignment:
 
-**There is txt file named “movie_information.txt” which holds the following information.**
-**-> Movie Name**
-**-> Director name**
-**-> Lead Actor Name**
-**-> Releasing Year**
-**-> Total earning of that movie**
-**Read the file “movie_information.txt” and do the following tasks:-**
-**-> Display the information stored on the file**
-**-> First read the file line by line and split the information on the basis of “ : ” and store the Movie Name and the Lead Actor Name into two separate variable.**
-**-> Store the new information into another file named “Actor_Information.txt” using “Name of the Actor : Movie Name” this convention.**
+####There is txt file named “movie_information.txt” which holds the following information.
+- **Movie Name**
+- **Director name**
+- **Lead Actor Name**
+- **Releasing Year**
+- **Total earning of that movie**
+####Read the file “movie_information.txt” and do the following tasks:-
+- **Display the information stored on the file**
+- **First read the file line by line and split the information on the basis of “ : ” and store the Movie Name and the Lead Actor Name into two separate variable.**
+- **Store the new information into another file named “Actor_Information.txt” using “Name of the Actor : Movie Name” this convention.**
 
 #### Solution:
 ```python
